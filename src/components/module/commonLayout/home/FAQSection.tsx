@@ -11,7 +11,7 @@ const FAQSection = () => {
 
   const faqs = [
     {
-      question: "How can I find a tutor?",
+      question: "How can I find a food?",
       answer:
         "You can search for tutors based on subjects, location, and experience. Simply browse through our tutor profiles and contact the one that fits your needs.",
     },
