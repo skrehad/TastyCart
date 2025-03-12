@@ -13,7 +13,7 @@ const FAQSection = () => {
     {
       question: "How can I find a food?",
       answer:
-        "You can search for foods based on subjects, location, and experience. Simply browse through our tutor profiles and contact the one that fits your needs.",
+        "You can search for foods based on menus, location, and experience. Simply browse through our tutor profiles and contact the one that fits your needs.",
     },
     {
       question: "How do I apply for tuition jobs?",
