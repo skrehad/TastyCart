@@ -16,7 +16,7 @@ const FAQSection = () => {
         "You can search for foods based on menus, location, and experience. Simply browse through our tutor profiles and contact the one that fits your needs.",
     },
     {
-      question: "How do I apply for tuition jobs?",
+      question: "How do I order for foods?",
       answer:
         "If you are a tutor, you can register on our platform and apply for available tuition jobs. Ensure your profile is complete for better visibility.",
     },
