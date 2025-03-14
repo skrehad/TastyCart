@@ -18,7 +18,7 @@ const FAQSection = () => {
     {
       question: "How do I order for foods?",
       answer:
-        "If you are a tutor, you can register on our platform and apply for available tuition jobs. Ensure your profile is complete for better visibility.",
+        "If you are a login user, you can register on our platform and apply for available tuition jobs. Ensure your profile is complete for better visibility.",
     },
     {
       question: "Are the tutors verified?",
