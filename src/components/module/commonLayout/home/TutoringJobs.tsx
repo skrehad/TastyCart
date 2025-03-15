@@ -47,7 +47,7 @@ export default function TutoringJobs() {
 
           <div className="mt-6" data-aos="zoom-in">
             <Button className=" text-white px-6 py-3 text-lg font-medium">
-              🔍 SEARCH TUITION
+              🔍 SEARCH FOODS
             </Button>
           </div>
         </div>
