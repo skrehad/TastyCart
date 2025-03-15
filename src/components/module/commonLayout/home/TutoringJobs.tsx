@@ -42,7 +42,7 @@ export default function TutoringJobs() {
             experience? If teaching jobs interest you, then you are on the right
             place. We often have <span className="font-bold">500+</span>{" "}
             verified home tuition jobs. Whether you are starting your career or
-            an expert, we can help you find your next big tuition job.
+            an expert, we can help you find your next food.
           </p>
 
           <div className="mt-6" data-aos="zoom-in">
