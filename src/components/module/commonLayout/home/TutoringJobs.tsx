@@ -38,11 +38,11 @@ export default function TutoringJobs() {
           </p>
 
           <p className="mt-4 text-gray-700">
-            Looking for interesting tuition jobs to excel your teaching
-            experience? If teaching jobs interest you, then you are on the right
-            place. We often have <span className="font-bold">500+</span>{" "}
-            verified home tuition jobs. Whether you are starting your career or
-            an expert, we can help you find your next food.
+            Looking for interesting food experience? If teaching jobs interest
+            you, then you are on the right place. We often have{" "}
+            <span className="font-bold">500+</span> verified home tuition jobs.
+            Whether you are starting your career or an expert, we can help you
+            find your next food.
           </p>
 
           <div className="mt-6" data-aos="zoom-in">
