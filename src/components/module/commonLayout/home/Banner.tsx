@@ -36,7 +36,8 @@ export default function Banner() {
           <p className="text-lg text-gray-600 mb-8 tracking-wide">
             Get Fresh & Healthy Meals Delivered to Your Doorstep
           </p>
-          <Button className="text-lg px-8 py-4 text-white font-semibold rounded-full shadow-md transition-all">
+
+          <Button className="text-lg cursor-pointer px-8 py-4 text-white font-semibold rounded-full shadow-md transition-all">
             Order Now
           </Button>
         </div>
@@ -66,7 +67,7 @@ export default function Banner() {
                 className="bg-white p-4 cursor-pointer rounded-xl shadow-lg hover:shadow-2xl transition-all border border-gray-200 max-w-[200px] w-full text-center"
                 data-aos-delay={index * 200}
               >
-                <h3 className="text-xl font-semibold text-gray-800 text-center">
+                <h3 className="text-xl mt-2 font-semibold text-gray-800 text-center">
                   {meal.type}
                 </h3>
                 <span className="text-gray-500 text-sm text-center">

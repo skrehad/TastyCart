@@ -2,8 +2,8 @@
 
 import Banner from "@/components/module/commonLayout/home/Banner";
 import FAQSection from "@/components/module/commonLayout/home/FAQSection";
-import TuitionTypes from "@/components/module/commonLayout/home/TutionTypes";
-import TutoringJobs from "@/components/module/commonLayout/home/TutoringJobs";
+import FoodTypes from "@/components/module/commonLayout/home/FoodTypes";
+import MealSellingJobs from "@/components/module/commonLayout/home/MealSellingJobs";
 
 // import { useUser } from "@/context/UserContext";
 
@@ -13,8 +13,8 @@ const HomePage = () => {
   return (
     <div className="">
       <Banner />
-      <TutoringJobs />
-      <TuitionTypes />
+      <MealSellingJobs />
+      <FoodTypes />
       <FAQSection />
     </div>
   );
