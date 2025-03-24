@@ -39,24 +39,19 @@ export default function Navbar() {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex lg:space-x-10 md:gap-4">
-            {[
-              "/",
-              "/all-foods",
-              "/browse-seller",
-              "/about",
-              "/faq",
-              "/blog",
-            ].map((route) => (
-              <Link
-                key={route}
-                href={route}
-                className={`hover:text-blue-600 ${
-                  pathname === route ? "text-green-500 underline" : ""
-                }`}
-              >
-                {route.replace("/", "").toUpperCase() || "HOME"}
-              </Link>
-            ))}
+            {["/", "/all-foods", "/seller", "/about", "/faq", "/blog"].map(
+              (route) => (
+                <Link
+                  key={route}
+                  href={route}
+                  className={`hover:text-blue-600 ${
+                    pathname === route ? "text-green-500 underline" : ""
+                  }`}
+                >
+                  {route.replace("/", "").toUpperCase() || "HOME"}
+                </Link>
+              )
+            )}
           </div>
 
           {/* User Account Section */}
