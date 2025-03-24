@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <Providers>
       <html lang="en">
-        <body className={` ${roboto.className}`}>
+        <body className={` ${roboto.className}  mx-5`}>
           <Toaster richColors position="top-center" />
 
           {children}

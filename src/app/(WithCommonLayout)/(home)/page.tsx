@@ -11,7 +11,7 @@ const HomePage = () => {
   // const user = useUser();
 
   return (
-    <div className="container mx-auto ">
+    <div className="">
       <Banner />
       <TutoringJobs />
       <TuitionTypes />
